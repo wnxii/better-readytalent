@@ -9,6 +9,10 @@ A more accessible web application that fetches and displays job listings using u
 - Responsive data table display
 - Loading states and error handling
 
+## Screenshot
+
+![Application Screenshot](screenshot.png)
+
 ## Usage
 
 ```bash
@@ -25,7 +29,3 @@ npm run dev
 - React + TypeScript
 - Vite
 - Shadcn UI components
-
-```
-
-```
